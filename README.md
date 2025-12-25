@@ -17,4 +17,4 @@ The models are trained and validated using the dataset from the **FORCE 2020 Lit
     * Recorded at a resolution of **0.152m**.
 * **Test Set:**
   * Data from **10 wells** (utilizing the `hidden_test.csv` file from the competition).
-* **Source:** [FORCE 2020 Machine Learning Competition](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition)
+* **Source:** [FORCE 2020 Machine Learning Competition](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition/tree/master/lithology_competition)
