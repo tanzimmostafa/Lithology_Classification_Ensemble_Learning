@@ -19,5 +19,5 @@ The models are trained and validated using the dataset from the **FORCE 2020 Lit
   * Data from **10 wells** (utilizing the `hidden_test.csv` file from the competition).
 * **Source:** [FORCE 2020 Machine Learning Competition](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition/tree/master/lithology_competition)
 
-** Implementation Pipleline:
-<img src="(https://github.com/tanzimmostafa/Lithology_Classification_Ensemble_Learning/blob/main/Codes/Pipeline_w_Feature_Augmentation.png?raw=true)" width="800">
+* **Implementation Pipleline Figure**:
+<img src="Codes/Pipeline_w_Feature_Augmentation.png" width="800">
