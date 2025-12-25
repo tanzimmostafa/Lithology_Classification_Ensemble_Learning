@@ -1,1 +1,1 @@
-# Lithology_Classification_Ensemble_Methods
+# Lithology Classification using Ensemble Learning Techniques
