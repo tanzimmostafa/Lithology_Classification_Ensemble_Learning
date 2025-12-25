@@ -1,6 +1,6 @@
 # Lithology Classification using Ensemble Learning Techniques
 This repository contains the codes for lithology classification using three ensemble learning techniques: XGBoost, CatBoost, and Random Forest. 
-
+I used these to perform a comparative study in Chapter 3 of my Master's thesis: https://www.proquest.com/docview/3240874881
 
 ## 📌 Project Overview
 
