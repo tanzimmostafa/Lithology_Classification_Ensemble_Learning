@@ -11,7 +11,8 @@ This project demonstrates how ensemble learning techniques can automate this pro
 ## 📊 Dataset Description
 The models are trained and validated using the dataset from the **FORCE 2020 Lithology Competition**, one of the most comprehensive open-source datasets for petrophysical machine learning.
 
-* **Training Set:** * Data from **98 wells**.
+* **Training Set:**
+    * Data from **98 wells**.
     * **1,170,511 samples** with 29 columns of geophysical data.
     * Recorded at a resolution of **0.152m**.
 * **Test Set:** * Data from **10 wells** (utilizing the `hidden_test.csv` file from the competition).
