@@ -20,7 +20,7 @@ The models are trained and validated using the dataset from the **FORCE 2020 Lit
 * **Source:** [FORCE 2020 Machine Learning Competition](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition/tree/master/lithology_competition)
 
 ## Modeling Pipleline Figure
-<img src="Codes/Modeling_Pipeline_Figure.png" width="800">
+<img src="Figures/Modeling_Pipeline_Figure.png" width="800">
 
 ## Lithology Classification Figure
-<img src="Codes/Lithology_Classification_Figure.png" width="800">
+<img src="Figures/Lithology_Classification_Figure.png" width="800">
